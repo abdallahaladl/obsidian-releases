@@ -6616,5 +6616,12 @@
     "repo": "tcrouzet/obsidian-ultra-minimal",
     "screenshot": "doc/cover.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Woodtype",
+    "author": "Abdallah Aladl",
+    "repo": "abdallahaladl/obsidian-woodtype",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
